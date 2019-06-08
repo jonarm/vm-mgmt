@@ -2,7 +2,7 @@
 
 # vm-mgmt connects to a vCenter/ESX Server to execute tasks
 # and generate reports
-# Copyright: (c) 2014 Jonar Marzan.
+# Copyright: (c) 2014 Jonar M.
 # License: BSD, see LICENSE for more details.
 
 import sys
